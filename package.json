@@ -1,0 +1,23 @@
+{
+  "name": "rest-api-with-express-and-redis-",
+  "version": "1.0.0",
+  "description": "REST API WITH EXPRESS AND REDIS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seecog/REST-API-WITH-EXPRESS-AND-REDIS-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seecog/REST-API-WITH-EXPRESS-AND-REDIS-/issues"
+  },
+  "homepage": "https://github.com/seecog/REST-API-WITH-EXPRESS-AND-REDIS-#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "redis": "^2.8.0"
+  }
+}
